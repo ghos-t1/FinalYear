@@ -14,6 +14,7 @@ import 'package:final_year_project/providers/chat_provider.dart';
 
 import 'package:firebase_core/firebase_core.dart';
 import 'firebase_options.dart';
+//wei
 
 // Entry point of the application
 void main() async {
